@@ -14,6 +14,9 @@ Welcome to **RecipeApp**, a beautiful and intuitive cross-platform mobile app bu
 - Works seamlessly on **iOS**, **Android**, and **web** via Expo Go or emulators.
 
 ---
+![Home Screen](./screenshots/9.jpg)  
+*Recipe App*
+
 
 ## 📱 Screenshots
 
