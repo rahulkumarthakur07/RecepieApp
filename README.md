@@ -39,3 +39,12 @@ Welcome to **RecipeApp**, a beautiful and intuitive cross-platform mobile app bu
 - Expo CLI installed globally:  
   ```bash
   npm install -g expo-cli
+
+
+### Installation & Running
+
+```bash
+git clone https://github.com/rahulkumarthakur07/RecepieApp.git
+cd RecepieApp
+npm install
+npm run start
