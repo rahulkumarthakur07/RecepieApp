@@ -20,13 +20,13 @@ Welcome to **RecipeApp**, a beautiful and intuitive cross-platform mobile app bu
 
 ## 📱 Screenshots
 
-![Home Screen](./screenshots/home.jpg)  
+![Home Screen](./screenshots/home.png)  
 *Browse delicious recipes*
 
-![Recipe Details](./screenshots/details.jpg)  
+![Recipe Details](./screenshots/details.png)  
 *View detailed cooking instructions*
 
-![Favorites](./screenshots/favorite.jpg)  
+![Favorites](./screenshots/favorite.png)  
 *Save and manage your favorite meals*
 
 ---
